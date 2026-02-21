@@ -19,7 +19,7 @@ from telegram.ext import (
 )
 
 # ── Настройки ──────────────────────────────────────────────────────────────────
-BOT_TOKEN = "8306551070:AAHKmNRpJM6f7v4hSXLW_s_Q0NbEXDZ66uo"
+BOT_TOKEN = "8306551070:AAGx-AwWZ-tJXs2V3rAQrL0bBsy4hgNOeBs"
 ADMIN_CHAT_ID = 270143690  # Admin Telegram ID
 
 logging.basicConfig(
